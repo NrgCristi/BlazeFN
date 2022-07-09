@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\BlazeFN\obj\Release\BlazeFN.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\BlazeFN\obj\Release\MainWindow.g.cs
+C:\Users\User\source\repos\BlazeFN\obj\Release\App.g.cs
+C:\Users\User\source\repos\BlazeFN\obj\Release\BlazeFN_MarkupCompile.cache
+C:\Users\User\source\repos\BlazeFN\obj\Release\BlazeFN_MarkupCompile.lref
+C:\Users\User\source\repos\BlazeFN\bin\Release\BlazeFN.exe
+C:\Users\User\source\repos\BlazeFN\bin\Release\BlazeFN.pdb
+C:\Users\User\source\repos\BlazeFN\obj\Release\MainWindow.baml
+C:\Users\User\source\repos\BlazeFN\obj\Release\BlazeFN.g.resources
+C:\Users\User\source\repos\BlazeFN\obj\Release\BlazeFN.Properties.Resources.resources
+C:\Users\User\source\repos\BlazeFN\obj\Release\BlazeFN.csproj.GenerateResource.cache
+C:\Users\User\source\repos\BlazeFN\obj\Release\BlazeFN.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\BlazeFN\obj\Release\BlazeFN.exe
+C:\Users\User\source\repos\BlazeFN\obj\Release\BlazeFN.pdb

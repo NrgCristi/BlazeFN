@@ -1,0 +1,19 @@
+﻿<Window x:Class="BlazeFN.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:BlazeFN"
+        mc:Ignorable="d" Height="450" Width="800">
+    <Grid>
+        <TextBox x:Name="MailTextBox" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" VerticalAlignment="Top" Width="280.262" RenderTransformOrigin="0.819,1.582" Margin="306.942,125.855,0,0" TextChanged="TextBox_TextChanged"/>
+        <Label Content="E-mail" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="306.942,99.855,0,0"/>
+        <TextBox x:Name="PassTextBox" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" VerticalAlignment="Top" Width="280.262" RenderTransformOrigin="0.819,1.582" Margin="306.942,196.41,0,0"/>
+        <Label Content="Password" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="306.942,170.41,0,0"/>
+        <Label Content="Path&#xD;&#xA;" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="306.942,231.979,0,0"/>
+        <TextBox x:Name="PathTextBox" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" VerticalAlignment="Top" Width="280.262" RenderTransformOrigin="0.819,1.582" Margin="306.942,257.979,0,0"/>
+        <Button x:Name="PathBtn" Content="..." HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Margin="603.018,257.979,0,0"/>
+        <Button x:Name="LaunchBtn" Content="Launch" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Margin="416.499,319.548,0,0" RenderTransformOrigin="0.418,2.184" Click="LaunchBtn_Click"/>
+        
+    </Grid>
+</Window>

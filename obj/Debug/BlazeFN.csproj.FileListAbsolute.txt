@@ -1,0 +1,5 @@
+C:\Users\User\source\repos\BlazeFN\obj\Debug\BlazeFN.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\BlazeFN\obj\Debug\MainWindow.g.cs
+C:\Users\User\source\repos\BlazeFN\obj\Debug\App.g.cs
+C:\Users\User\source\repos\BlazeFN\obj\Debug\BlazeFN_MarkupCompile.cache
+C:\Users\User\source\repos\BlazeFN\obj\Debug\BlazeFN_MarkupCompile.lref
