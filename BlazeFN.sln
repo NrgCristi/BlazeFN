@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32413.511
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazeFN", "BlazeFN.csproj", "{D83A2B16-09F2-4F43-8F53-8879D4A0FE65}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D83A2B16-09F2-4F43-8F53-8879D4A0FE65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D83A2B16-09F2-4F43-8F53-8879D4A0FE65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D83A2B16-09F2-4F43-8F53-8879D4A0FE65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D83A2B16-09F2-4F43-8F53-8879D4A0FE65}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0BDB12D7-C8F7-44B2-8A43-1417D13A878E}
+	EndGlobalSection
+EndGlobal
